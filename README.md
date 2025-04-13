@@ -9,6 +9,7 @@ This Python app allows you to **speak a query**, and it will fetch and **read al
 
 ## 📦 Requirements
 Make sure you have Python 3.x installed, and install the following libraries:
+```bash
 - pip install pyttsx3
 - pip install SpeechRecognition
 - pip install wikipedia
